@@ -125,6 +125,7 @@
         font-size: 40px;
     }
 }
+
 @media screen and (max-width: 770px) {
 
     .logo {
@@ -207,7 +208,7 @@
         top: 95px;
         visibility: visible;
         z-index: 22222;
-        
+
     }
 
     .navbar__itens__resp:hover {
